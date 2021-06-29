@@ -1,0 +1,78 @@
+div.topnav1
+{   
+    float:left;
+    background-color: #333;
+    width:30%;
+    display:inline-block;
+} 
+div.topnav2
+{    
+    background-color: #333;
+    width:70%;
+    float:left;
+} 
+div.navigation
+{ 
+    background-color: #333;
+    width:100%;
+    height:100%;
+    float:left;
+    margin-bottom: 25px;
+} 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    font-size: 20px;
+    display: block;
+    color: black;
+    background-color: silver;
+    margin: 10px 4px;
+    text-align: center;
+    padding: 7px 12px;
+    text-decoration: none;
+    border-radius: 2px;
+  }
+  
+  li a:hover {
+    background-color: white;
+    color: black;
+        transform: scale(1.1); 
+      
+  }
+  li a:active {
+    color: white;
+    background-color: silver;
+  }
+
+  .exit{
+    font-size: 20px;
+    display: block;
+    color: black;
+    background-color: silver;
+    margin: 10px 4px;
+    text-align: center;
+    padding: 7px 12px;
+    text-decoration: none;
+    border-radius: 2px;
+  }
+  
+  .exit:hover{
+    background-color: rgb(216, 18, 18);
+    color: white;
+        transform: scale(1.2); 
+      
+  }
+  .exit:active{
+    color: white;
+    background-color: silver;
+  }

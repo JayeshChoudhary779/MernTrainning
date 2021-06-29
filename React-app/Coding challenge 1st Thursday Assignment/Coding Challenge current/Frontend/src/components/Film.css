@@ -1,0 +1,9 @@
+.film{
+    text-align: center;
+    background-color:silver;
+    cursor: pointer;
+}
+.filmn{
+    color: blue;
+    text-decoration: underline;
+}

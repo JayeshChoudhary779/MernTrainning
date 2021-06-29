@@ -1,0 +1,119 @@
+
+.bgimage{
+  background-image: url("https://cdn.vox-cdn.com/thumbor/ybRf9TwAH2J7VeSRxemzJAvNhMw=/0x0:6720x4480/1200x800/filters:focal(2717x1620:3791x2694)/cdn.vox-cdn.com/uploads/chorus_image/image/60141553/shutterstock_1068876371.0.jpg");
+  background-repeat:  repeat;
+  height: 650px;
+}
+
+div.container{
+  margin: auto;
+  width: 50%;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color:#333;
+    color: white;
+    padding: 14px 20px;
+    margin: 0 0;
+    border: none;
+    border-radius: 54px;
+    cursor: pointer;
+  }
+
+  .booklist {
+    width: 200%;
+    background-color:#333;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0 ;
+    border: none;
+    border-radius: 54px;
+    cursor: pointer;
+  }
+  
+  .booklist:active {
+    color: white;
+    background-color: rgb(168, 19, 19);
+  }
+  
+  .booklist:hover {
+    color: #fff;
+    background-color: #080257;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #080257;}
+  
+  input[type=submit]:active {
+    color: white;
+    background-color: rgb(168, 19, 19);
+  }
+  
+  body{
+      background-color: silver;
+  }
+
+  
+  #addbutton1{
+    width: 20%;
+    background-color:rgb(69, 69, 214);
+    color: white;
+    border: none;
+    border-radius: 54px;
+    cursor: pointer;
+    font-family :cursive;
+    
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  #addbutton1:hover {
+    background-color: rgb(233, 43, 18);
+    color: black;
+  }
+  
+  #addbutton1:active {
+    color: white;
+    background-color: rgb(235, 232, 89);
+  }
+
+  div.newLine{
+    display: block;
+    margin-bottom: 30px;
+  }
+  /* .button {
+    background-color: silver; 
+    border: none;
+    color: rgb(29, 8, 8);
+    margin: 2px 2px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  } */
+    
+    /* #addbutton {
+      width: 100%;
+      background-color: #333; /* Green 
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+    }
+    #addbutton :hover{
+      color: rgb(69, 69, 214);
+    } */

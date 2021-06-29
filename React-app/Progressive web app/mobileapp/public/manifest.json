@@ -1,0 +1,23 @@
+{
+  
+  "name": "My Native App",
+  "short_name": "home screen",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+,
+"icons": [
+  {
+    "src": "/imag/icons/myIcon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "/imag/icons/myIcon1.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+]
+}

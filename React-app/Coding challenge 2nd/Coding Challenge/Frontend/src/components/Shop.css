@@ -1,0 +1,9 @@
+.shop{
+    text-align: center;
+    background-color: white;
+    cursor: pointer;
+}
+.shopn{
+    color: blue;
+    text-decoration: underline;
+}

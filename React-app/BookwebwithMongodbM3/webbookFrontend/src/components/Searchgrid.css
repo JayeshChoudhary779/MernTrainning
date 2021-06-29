@@ -1,0 +1,30 @@
+.gridsearch {
+  display: block;
+    padding-top: 200px;
+    font-size: 26px;
+    text-align: center;
+  }
+  .pricerange{
+    width: 120px;
+    margin-right: 5px;
+  }
+  #searchBut{
+    font-family :cursive;
+      font-size: 20px;
+      color: white;
+      background-color: rgb(69, 69, 214);
+      margin: 10px 5px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 12px; 
+  }
+  #searchBut:hover {
+    background-color: rgb(233, 43, 18);
+    color: black;
+        transform: scale(1.2); 
+      
+  }
+  #searchBut:active {
+    color: white;
+    background-color: rgb(235, 232, 89);
+  }
